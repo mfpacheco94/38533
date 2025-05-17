@@ -1,0 +1,5 @@
+juego Aventura {
+    escena Introducción {
+        mostrar "Bienvenido a la aventura.";
+    }
+}

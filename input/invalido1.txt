@@ -1,0 +1,11 @@
+Aventura {
+    escena Introducción {
+        mostrar "Bienvenido a la aventura.";
+    }
+    escena Descenlace {
+        mostrar "Bienvenido a la aventura.";
+    }
+    escena Preludio {
+        mostrar "Bienvenido a la aventura.";
+    }
+}
