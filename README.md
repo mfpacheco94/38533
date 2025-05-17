@@ -108,4 +108,4 @@ Incluye 4 archivos en `/input` para evaluar:
 
 ## 🧑‍💻 Autor
 
-Trabajo práctico para la materia **Construcción de Analizadores** – Universidad Siglo 21.
+Trabajo práctico para la materia **Sintaxis y Estructuras de Datos** – Universidad Tecnologica Nacional.
