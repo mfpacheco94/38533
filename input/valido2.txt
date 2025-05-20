@@ -1,0 +1,13 @@
+juego Camino {
+  escena Inicio {
+    mostrar "¿Querés avanzar?";
+    leer respuesta;
+    si respuesta == "sí" saltar Avance;
+  }
+
+  escena Avance {
+    mostrar "Seguiste adelante.";
+  }
+}
+//Correcto. Incluye condición y salto a otra escena definida.
+

@@ -1,0 +1,7 @@
+juego Problema {
+  escna Inicio {
+    mostrar "Esto fallará.";
+  }
+}
+//Error en línea 2: palabra clave escna inválida.
+// Se espera: escena

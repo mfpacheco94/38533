@@ -1,0 +1,6 @@
+juego Saludo {
+  escena Inicio {
+    mostrar "Hola mundo";
+  }
+}
+//Correcto. Sintaxis completa, estructura simple.
